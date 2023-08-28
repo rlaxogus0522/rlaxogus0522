@@ -25,7 +25,7 @@
 
 ## Stats
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=rlaxogus0522&show_icons=true)
+<!--![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=rlaxogus0522&show_icons=true) >
 
 </div>
 <!--
