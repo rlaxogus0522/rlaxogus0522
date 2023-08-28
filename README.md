@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=TaeHyun's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=TaeHyun's%20GitHub(수정중)%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 <br>
 <div align="center">
 
@@ -22,10 +22,10 @@
 ![CleanArchitecture](https://img.shields.io/badge/Clean&nbsp;Architecture-0B2C4A?style=for-the-badge&logo=CleanArchitecture&logoColor=#3DDC84) 
 
 <br>
-
+<!--
 ## Stats
-
-<!--![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=rlaxogus0522&show_icons=true) >
+![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=rlaxogus0522&show_icons=true) 
+>
 
 </div>
 <!--
